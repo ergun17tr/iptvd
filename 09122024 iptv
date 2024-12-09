@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTM3U 
+#EXTINF:-1 tvg-id="meclistv",meclistv
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8?e=&st=
+#EXTINF:-1 tvg-id="trt-1",trt-1
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6z7nfyxrma6r&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1 tvg-id="trtturk",trtturk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="trtavaz",trtavaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="bloomberght",bloomberght
+https://ciner-live.daioncdn.net/bloomberght/bloomberght_360p.m3u8
+#EXTINF:-1 tvg-id="bloomberght",bloomberght
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?ex=1649424566&st=4Y790MeXScF5LDOhVNykUQ&tv=1&sid=6z85mgik9x6p&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=3
+#EXTINF:-1 tvg-id="trthaber",trthaber
+https://tv-trthaber.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 tvg-id="haberturktv",haberturktv
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_360p.m3u8
+#EXTINF:-1 tvg-id="haberglobal",haberglobal
+https://ecanlitv3.etvserver.com/haberglobal.m3u8?tkn=_KqrawMTXmX0tVCyUgMI8A&tms=1733754117
+#EXTINF:-1 tvg-id="tv100",tv100
+https://tv100-live.daioncdn.net/tv100/tv100_360p.m3u8
+#EXTINF:-1 tvg-id="tv24",tv24
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:-1 tvg-id="tvnet",tvnet
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1 tvg-id="trtbelgesel",trtbelgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="dmax",dmax
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 tvg-id="tlc",tlc
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:-1 tvg-id="dmax1",dmax1
+https://s6.hopslan.com/dmax1/tracks-v1a1/mono.m3u8
